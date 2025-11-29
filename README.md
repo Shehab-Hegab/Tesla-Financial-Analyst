@@ -8,7 +8,9 @@
 
 A specialized Generative AI agent capable of analyzing complex 100+ page financial reports (10-Ks) with high precision. This project combines **Fine-Tuning** (for professional behavior) and **RAG** (Retrieval-Augmented Generation) for factual accuracy.
 
-🔗 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Shehab-Hegab/Tesla-Financial-Analyst)**
+### 🔗 Quick Links
+*   🚀 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Shehab-Hegab/Tesla-Financial-Analyst)**
+*   🎥 **[Watch Demo Video & Post on LinkedIn](https://www.linkedin.com/posts/shehab-hegab%F0%9F%87%B5%F0%9F%87%B8-5303491b7_generativeai-llama3-rag-activity-7400637766734217216-nnIM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJrF7QBd9Oce1lYAjrVMkebIhqFwZLmCwk)**
 
 ---
 
