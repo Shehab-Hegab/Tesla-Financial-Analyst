@@ -54,10 +54,7 @@ I built a specialized **Financial Analyst Agent** that solves this using a Hybri
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your app here to show off the UI)*
-
-> **Example Query:** "Summarize the company's policy regarding Bitcoin."
-> **Result:** The agent correctly identifies the accounting standard (ASC 350) and summarizes the policy on indefinite-lived intangible assets.
+<img width="1853" height="995" alt="image" src="https://github.com/user-attachments/assets/206e0041-f1ab-457c-966c-dfdea4f19efb" />
 
 ---
 
